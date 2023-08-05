@@ -1,3 +1,3 @@
 app:
-  key1: config-server-client-app2-dev-west-value1
-  key2: config-server-client-app2-dev-west-value2
+  key1: config-server-client-app2-main-west-value1
+  key2: config-server-client-app2-main-west-value2
