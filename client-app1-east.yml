@@ -1,3 +1,3 @@
 app:
-  key1: config-server-client-app1-main-east-value1
+  key1: '{cipher}59138e38578f11dca0c8115fef6e0055817e483867157fdde5c79f87c1371a0d2884c79e70f9c45efb3527cfd2524470dff0f0b132ddf2e38dc2c3181446f6a8'
   key2: config-server-client-app1-main-east-value2
