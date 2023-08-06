@@ -1,9 +1,9 @@
 app:
-  key1: config-server-client-app1-dev-east-value1
+  key1: '{cipher}eba1940e554547bbc48440c0b848168ff5d36e22b44503b2aa1e43a8889581885287611fbd39a6b172aa1cda822dd3b57ee6b0027af664f06298e01842ffe3b4'
   key2: config-server-client-app1-dev-east-value2
 
 spring:
   datasouce:
-  uri: jdbc://uri
-  username: admin
-  password: admin-password
+    uri: jdbc://uri
+    username: admin
+    password: admin-password
