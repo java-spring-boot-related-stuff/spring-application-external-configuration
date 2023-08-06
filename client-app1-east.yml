@@ -1,3 +1,9 @@
 app:
   key1: config-server-client-app1-dev-east-value1
   key2: config-server-client-app1-dev-east-value2
+
+spring:
+  datasouce:
+  uri: jdbc://uri
+  username: admin
+  password: admin-password
